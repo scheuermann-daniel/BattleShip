@@ -1,4 +1,3 @@
-# BattleShip
 # <ins>Battle Ship</ins>
 
 Written using Java
